@@ -10,11 +10,30 @@ using System.Windows.Forms;
 
 namespace UAS
 {
-    public partial class FormTopUp : Form
+    public partial class FormTransfer : Form
     {
-        public FormTopUp()
+        public FormTransfer()
         {
             InitializeComponent();
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox_RekeningTujuan_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar) &&
+        (e.KeyChar != '.'))
+            {
+                e.Handled = true;
+            }
         }
 
         private void textBox_Nominal_KeyPress(object sender, KeyPressEventArgs e)
