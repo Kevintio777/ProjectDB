@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BB108EDD-EB33-423F-975D-5338CDE28FCF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>UAS</RootNamespace>
+    <AssemblyName>UAS</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="diba">
+      <HintPath>..\diba\bin\Debug\diba.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MySql.Data, Version=8.0.24.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="db.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>db.settings</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarEmployee.Designer.cs">
+      <DependentUpon>FormDaftarEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarInbox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarInbox.Designer.cs">
+      <DependentUpon>FormDaftarInbox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarJenisTransaksi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarJenisTransaksi.Designer.cs">
+      <DependentUpon>FormDaftarJenisTransaksi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarPengguna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarPengguna.Designer.cs">
+      <DependentUpon>FormDaftarPengguna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarPosisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarPosisi.Designer.cs">
+      <DependentUpon>FormDaftarPosisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarTabungan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarTabungan.Designer.cs">
+      <DependentUpon>FormDaftarTabungan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataPengguna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataPengguna.Designer.cs">
+      <DependentUpon>FormDataPengguna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormForgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormForgotPassword.Designer.cs">
+      <DependentUpon>FormForgotPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTambahEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTambahEmployee.Designer.cs">
+      <DependentUpon>FormTambahEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTambahJenisTransaksi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTambahJenisTransaksi.Designer.cs">
+      <DependentUpon>FormTambahJenisTransaksi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTambahPosisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTambahPosisi.Designer.cs">
+      <DependentUpon>FormTambahPosisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTambahTabungan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTambahTabungan.Designer.cs">
+      <DependentUpon>FormTambahTabungan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUbahEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUbahEmployee.Designer.cs">
+      <DependentUpon>FormUbahEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUbahJenisTransaksi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUbahJenisTransaksi.Designer.cs">
+      <DependentUpon>FormUbahJenisTransaksi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUbahPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUbahPassword.Designer.cs">
+      <DependentUpon>FormUbahPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUbahPosisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUbahPosisi.Designer.cs">
+      <DependentUpon>FormUbahPosisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUtama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUtama.Designer.cs">
+      <DependentUpon>FormUtama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTambahPengguna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTambahPengguna.Designer.cs">
+      <DependentUpon>FormTambahPengguna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormDaftarEmployee.resx">
+      <DependentUpon>FormDaftarEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarInbox.resx">
+      <DependentUpon>FormDaftarInbox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarJenisTransaksi.resx">
+      <DependentUpon>FormDaftarJenisTransaksi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarPengguna.resx">
+      <DependentUpon>FormDaftarPengguna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarPosisi.resx">
+      <DependentUpon>FormDaftarPosisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarTabungan.resx">
+      <DependentUpon>FormDaftarTabungan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataPengguna.resx">
+      <DependentUpon>FormDataPengguna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormForgotPassword.resx">
+      <DependentUpon>FormForgotPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTambahEmployee.resx">
+      <DependentUpon>FormTambahEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTambahJenisTransaksi.resx">
+      <DependentUpon>FormTambahJenisTransaksi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTambahPengguna.resx">
+      <DependentUpon>FormTambahPengguna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTambahPosisi.resx">
+      <DependentUpon>FormTambahPosisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTambahTabungan.resx">
+      <DependentUpon>FormTambahTabungan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUbahEmployee.resx">
+      <DependentUpon>FormUbahEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUbahJenisTransaksi.resx">
+      <DependentUpon>FormUbahJenisTransaksi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUbahPassword.resx">
+      <DependentUpon>FormUbahPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUbahPosisi.resx">
+      <DependentUpon>FormUbahPosisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUtama.resx">
+      <DependentUpon>FormUtama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="db.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>db.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

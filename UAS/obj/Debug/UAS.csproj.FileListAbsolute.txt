@@ -1,0 +1,145 @@
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\UAS\obj\Debug\UAS.csproj.AssemblyReference.cache
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\UAS\obj\Debug\UAS.csproj.SuggestedBindingRedirects.cache
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\UAS\obj\Debug\UAS.FormUtama.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\UAS\obj\Debug\UAS.Properties.Resources.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\UAS\obj\Debug\UAS.csproj.GenerateResource.cache
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\UAS\obj\Debug\UAS.csproj.CoreCompileInputs.cache
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\UAS\bin\Debug\UAS.exe.config
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\UAS\bin\Debug\UAS.exe
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\UAS\bin\Debug\UAS.pdb
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\UAS\bin\Debug\diba.dll
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\UAS\bin\Debug\diba.pdb
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\UAS\obj\Debug\UAS.csproj.CopyComplete
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\UAS\obj\Debug\UAS.exe
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\UAS\obj\Debug\UAS.pdb
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\UAS\obj\Debug\UAS.FormLogin.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\UAS\obj\Debug\UAS.FormDaftarPengguna.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\UAS\obj\Debug\UAS.FormTambahPengguna.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\UAS\obj\Debug\UAS.FormUbahPassword.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\UAS\obj\Debug\UAS.FormForgotPassword.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\UAS\obj\Debug\UAS.FormDataPengguna.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\UAS\obj\Debug\UAS.FormDaftarPosisi.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\UAS\obj\Debug\UAS.FormTambahPosisi.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\UAS\obj\Debug\UAS.FormUbahPosisi.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\UAS\obj\Debug\UAS.FormDaftarJenisTransaksi.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\UAS\obj\Debug\UAS.FormTambahJenisTransaksi.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\UAS\obj\Debug\UAS.FormUbahJenisTransaksi.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\UAS\UAS\bin\Debug\UAS.exe.config
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\UAS\UAS\bin\Debug\UAS.exe
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\UAS\UAS\bin\Debug\UAS.pdb
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\UAS\UAS\bin\Debug\diba.dll
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\UAS\UAS\bin\Debug\diba.pdb
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\UAS\UAS\obj\Debug\UAS.csproj.AssemblyReference.cache
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\UAS\UAS\obj\Debug\UAS.csproj.SuggestedBindingRedirects.cache
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\UAS\UAS\obj\Debug\UAS.FormDaftarJenisTransaksi.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\UAS\UAS\obj\Debug\UAS.FormDaftarPengguna.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\UAS\UAS\obj\Debug\UAS.FormDaftarPosisi.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\UAS\UAS\obj\Debug\UAS.FormDataPengguna.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\UAS\UAS\obj\Debug\UAS.FormForgotPassword.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\UAS\UAS\obj\Debug\UAS.FormTambahJenisTransaksi.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\UAS\UAS\obj\Debug\UAS.FormTambahPengguna.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\UAS\UAS\obj\Debug\UAS.FormTambahPosisi.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\UAS\UAS\obj\Debug\UAS.FormUbahJenisTransaksi.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\UAS\UAS\obj\Debug\UAS.FormUbahPassword.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\UAS\UAS\obj\Debug\UAS.FormUbahPosisi.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\UAS\UAS\obj\Debug\UAS.FormUtama.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\UAS\UAS\obj\Debug\UAS.FormLogin.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\UAS\UAS\obj\Debug\UAS.Properties.Resources.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\UAS\UAS\obj\Debug\UAS.csproj.GenerateResource.cache
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\UAS\UAS\obj\Debug\UAS.csproj.CoreCompileInputs.cache
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\UAS\UAS\obj\Debug\UAS.csproj.CopyComplete
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\UAS\UAS\obj\Debug\UAS.exe
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\UAS\UAS\obj\Debug\UAS.pdb
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.csproj.AssemblyReference.cache
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.csproj.SuggestedBindingRedirects.cache
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormDaftarJenisTransaksi.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormDaftarPengguna.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormDaftarPosisi.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormDataPengguna.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormForgotPassword.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormTambahJenisTransaksi.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormTambahPengguna.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormTambahPosisi.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormUbahJenisTransaksi.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormUbahPassword.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormUbahPosisi.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormUtama.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormLogin.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.Properties.Resources.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.csproj.GenerateResource.cache
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.csproj.CoreCompileInputs.cache
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.exe
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.pdb
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\bin\Debug\UAS.exe.config
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\bin\Debug\UAS.exe
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\bin\Debug\UAS.pdb
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\bin\Debug\diba.dll
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\bin\Debug\diba.pdb
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.csproj.CopyComplete
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormDaftarEmployee.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormTambahEmployee.resources
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormUbahEmployee.resources
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\bin\Debug\UAS.exe.config
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\bin\Debug\UAS.exe
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\bin\Debug\UAS.pdb
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\bin\Debug\diba.dll
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\bin\Debug\diba.pdb
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormDaftarEmployee.resources
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormDaftarJenisTransaksi.resources
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormDaftarPengguna.resources
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormDaftarPosisi.resources
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormDataPengguna.resources
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormForgotPassword.resources
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormTambahEmployee.resources
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormTambahJenisTransaksi.resources
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormTambahPengguna.resources
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormTambahPosisi.resources
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormUbahEmployee.resources
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormUbahJenisTransaksi.resources
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormUbahPassword.resources
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormUbahPosisi.resources
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormUtama.resources
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormLogin.resources
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.csproj.CopyComplete
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.exe
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.pdb
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormDaftarInbox.resources
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\bin\Debug\UAS.exe.config
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\bin\Debug\UAS.exe
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\bin\Debug\UAS.pdb
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\bin\Debug\diba.dll
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\bin\Debug\diba.pdb
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormDaftarEmployee.resources
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormDaftarInbox.resources
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormDaftarJenisTransaksi.resources
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormDaftarPengguna.resources
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormDaftarPosisi.resources
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormDataPengguna.resources
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormForgotPassword.resources
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormTambahEmployee.resources
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormTambahJenisTransaksi.resources
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormTambahPengguna.resources
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormTambahPosisi.resources
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormUbahEmployee.resources
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormUbahJenisTransaksi.resources
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormUbahPassword.resources
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormUbahPosisi.resources
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormUtama.resources
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.FormLogin.resources
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.exe
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.pdb
+C:\Users\Chandra\Downloads\Milestone Tahap 2-20221209T020702Z-001\Milestone Tahap 3\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.csproj.AssemblyReference.cache
+C:\Users\Chandra\Downloads\Milestone Tahap 2-20221209T020702Z-001\Milestone Tahap 3\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.exe
+C:\Users\Chandra\Downloads\Milestone Tahap 2-20221209T020702Z-001\Milestone Tahap 3\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.pdb

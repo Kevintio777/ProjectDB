@@ -1,0 +1,55 @@
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\diba\obj\Debug\diba.csproj.AssemblyReference.cache
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\diba\obj\Debug\diba.csproj.CoreCompileInputs.cache
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\diba\bin\Debug\diba.dll
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\diba\bin\Debug\diba.pdb
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\diba\obj\Debug\diba.csproj.CopyComplete
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\diba\obj\Debug\diba.dll
+D:\Data Kevin\Perkuliahan\Semester 3\database\ProjekUAS\UAS\diba\obj\Debug\diba.pdb
+D:\Project DTB-UAS\ProjekUAS\UAS\diba\bin\Debug\diba.dll
+D:\Project DTB-UAS\ProjekUAS\UAS\diba\bin\Debug\diba.pdb
+D:\Project DTB-UAS\ProjekUAS\UAS\diba\obj\Debug\diba.csproj.AssemblyReference.cache
+D:\Project DTB-UAS\ProjekUAS\UAS\diba\obj\Debug\diba.csproj.CoreCompileInputs.cache
+D:\Project DTB-UAS\ProjekUAS\UAS\diba\obj\Debug\diba.csproj.CopyComplete
+D:\Project DTB-UAS\ProjekUAS\UAS\diba\obj\Debug\diba.dll
+D:\Project DTB-UAS\ProjekUAS\UAS\diba\obj\Debug\diba.pdb
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\diba\obj\Debug\diba.csproj.AssemblyReference.cache
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\diba\obj\Debug\diba.csproj.CoreCompileInputs.cache
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\diba\obj\Debug\diba.dll
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\diba\obj\Debug\diba.pdb
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\diba\bin\Debug\diba.dll
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\diba\bin\Debug\diba.pdb
+D:\Data Kevin\Perkuliahan\Semester 3\database\Project_UAS\ProjekUAS\ProjekUAS_VS\diba\obj\Debug\diba.csproj.CopyComplete
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\diba\bin\Debug\diba.dll
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\diba\bin\Debug\diba.pdb
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\diba\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\diba\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\diba\obj\Debug\diba.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\diba\obj\Debug\diba.csproj.CopyComplete
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\diba\obj\Debug\diba.dll
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\diba\obj\Debug\diba.pdb
+C:\Users\Asus\OneDrive\Dokumen\Database KP F\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\diba\obj\Debug\diba.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\diba\bin\Debug\diba.dll
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\diba\bin\Debug\diba.pdb
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\diba\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\diba\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\diba\obj\Debug\diba.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\diba\obj\Debug\diba.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\diba\obj\Debug\diba.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\diba\obj\Debug\diba.dll
+C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_UAS\ProjekUAS\ProjekUAS_VS\diba\obj\Debug\diba.pdb
+C:\Users\Chandra\Downloads\Milestone Tahap 2-20221209T020702Z-001\Milestone Tahap 2\ProjekUAS\ProjekUAS_VS\diba\obj\Debug\diba.csproj.AssemblyReference.cache
+C:\Users\Chandra\Downloads\Milestone Tahap 2-20221209T020702Z-001\Milestone Tahap 2\ProjekUAS\ProjekUAS_VS\diba\obj\Debug\diba.csproj.CoreCompileInputs.cache
+C:\Users\Chandra\Downloads\Milestone Tahap 2-20221209T020702Z-001\Milestone Tahap 2\ProjekUAS\ProjekUAS_VS\diba\obj\Debug\diba.dll
+C:\Users\Chandra\Downloads\Milestone Tahap 2-20221209T020702Z-001\Milestone Tahap 2\ProjekUAS\ProjekUAS_VS\diba\obj\Debug\diba.pdb
+C:\Users\Chandra\Downloads\Milestone Tahap 2-20221209T020702Z-001\Milestone Tahap 2\ProjekUAS\ProjekUAS_VS\diba\bin\Debug\diba.dll
+C:\Users\Chandra\Downloads\Milestone Tahap 2-20221209T020702Z-001\Milestone Tahap 2\ProjekUAS\ProjekUAS_VS\diba\bin\Debug\diba.pdb
+C:\Users\Chandra\Downloads\Milestone Tahap 2-20221209T020702Z-001\Milestone Tahap 2\ProjekUAS\ProjekUAS_VS\diba\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Chandra\Downloads\Milestone Tahap 2-20221209T020702Z-001\Milestone Tahap 2\ProjekUAS\ProjekUAS_VS\diba\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Chandra\Downloads\Milestone Tahap 2-20221209T020702Z-001\Milestone Tahap 3\ProjekUAS\ProjekUAS_VS\diba\bin\Debug\diba.dll
+C:\Users\Chandra\Downloads\Milestone Tahap 2-20221209T020702Z-001\Milestone Tahap 3\ProjekUAS\ProjekUAS_VS\diba\bin\Debug\diba.pdb
+C:\Users\Chandra\Downloads\Milestone Tahap 2-20221209T020702Z-001\Milestone Tahap 3\ProjekUAS\ProjekUAS_VS\diba\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Chandra\Downloads\Milestone Tahap 2-20221209T020702Z-001\Milestone Tahap 3\ProjekUAS\ProjekUAS_VS\diba\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Chandra\Downloads\Milestone Tahap 2-20221209T020702Z-001\Milestone Tahap 3\ProjekUAS\ProjekUAS_VS\diba\obj\Debug\diba.csproj.AssemblyReference.cache
+C:\Users\Chandra\Downloads\Milestone Tahap 2-20221209T020702Z-001\Milestone Tahap 3\ProjekUAS\ProjekUAS_VS\diba\obj\Debug\diba.csproj.CoreCompileInputs.cache
+C:\Users\Chandra\Downloads\Milestone Tahap 2-20221209T020702Z-001\Milestone Tahap 3\ProjekUAS\ProjekUAS_VS\diba\obj\Debug\diba.dll
+C:\Users\Chandra\Downloads\Milestone Tahap 2-20221209T020702Z-001\Milestone Tahap 3\ProjekUAS\ProjekUAS_VS\diba\obj\Debug\diba.pdb
