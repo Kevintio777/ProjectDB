@@ -53,12 +53,19 @@ namespace UAS
                 frm = (FormUtama)this.Owner;
                 if(userLogin != null)
                 {
+                    CredentialStore.Nik = userLogin.Nik;
                     frm.userLogin = userLogin;
                 }
                 else if (pegawaiLogin != null)
                 {
+                    CredentialStore.Nik = pegawaiLogin.Nik;
                     frm.pegawaiLogin = pegawaiLogin;
                 }
+
+                Tabungan tabunganLogin = Tabungan.Bacadata("pengguna_nik", CredentialStore.Nik)[0];
+
+                CredentialStore.NoRekening = tabunganLogin.NoRekening;
+
                 MessageBox.Show("Login berhasil");
                 this.Close();
             }
