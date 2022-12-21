@@ -53,3 +53,12 @@ C:\Users\Chandra\Downloads\Milestone Tahap 2-20221209T020702Z-001\Milestone Taha
 C:\Users\Chandra\Downloads\Milestone Tahap 2-20221209T020702Z-001\Milestone Tahap 3\ProjekUAS\ProjekUAS_VS\diba\obj\Debug\diba.csproj.CoreCompileInputs.cache
 C:\Users\Chandra\Downloads\Milestone Tahap 2-20221209T020702Z-001\Milestone Tahap 3\ProjekUAS\ProjekUAS_VS\diba\obj\Debug\diba.dll
 C:\Users\Chandra\Downloads\Milestone Tahap 2-20221209T020702Z-001\Milestone Tahap 3\ProjekUAS\ProjekUAS_VS\diba\obj\Debug\diba.pdb
+G:\DEV\VSTUDIO\diba\bin\Debug\diba.dll
+G:\DEV\VSTUDIO\diba\bin\Debug\diba.pdb
+G:\DEV\VSTUDIO\diba\bin\Debug\BouncyCastle.Crypto.dll
+G:\DEV\VSTUDIO\diba\bin\Debug\Ubiety.Dns.Core.dll
+G:\DEV\VSTUDIO\diba\obj\Debug\diba.csproj.AssemblyReference.cache
+G:\DEV\VSTUDIO\diba\obj\Debug\diba.csproj.CoreCompileInputs.cache
+G:\DEV\VSTUDIO\diba\obj\Debug\diba.csproj.CopyComplete
+G:\DEV\VSTUDIO\diba\obj\Debug\diba.dll
+G:\DEV\VSTUDIO\diba\obj\Debug\diba.pdb

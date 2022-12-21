@@ -1,4 +1,5 @@
-﻿using System;
+﻿using diba;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -24,6 +25,11 @@ namespace UAS
             {
                 e.Handled = true;
             }
+        }
+
+        private void button_TopUp_Click(object sender, EventArgs e)
+        {
+            string no_rekening = CredentialStore.NoRekening;
         }
     }
 }

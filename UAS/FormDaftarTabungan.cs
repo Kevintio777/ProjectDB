@@ -64,5 +64,10 @@ namespace UAS
             form.Owner = this;
             form.ShowDialog();
         }
+
+        private void comboBoxCari_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

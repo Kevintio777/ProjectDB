@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AdressBook.cs" />
+    <Compile Include="CredentialStore.cs" />
     <Compile Include="Deposito.cs" />
     <Compile Include="KodeBank.cs" />
     <Compile Include="Tabungan.cs" />

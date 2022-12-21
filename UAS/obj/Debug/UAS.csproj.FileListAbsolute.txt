@@ -143,3 +143,38 @@ C:\Users\ASUS\OneDrive\Documents\Project_UAS_Latest\Project_UAS_Latest\Project_U
 C:\Users\Chandra\Downloads\Milestone Tahap 2-20221209T020702Z-001\Milestone Tahap 3\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.csproj.AssemblyReference.cache
 C:\Users\Chandra\Downloads\Milestone Tahap 2-20221209T020702Z-001\Milestone Tahap 3\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.exe
 C:\Users\Chandra\Downloads\Milestone Tahap 2-20221209T020702Z-001\Milestone Tahap 3\ProjekUAS\ProjekUAS_VS\UAS\obj\Debug\UAS.pdb
+G:\DEV\VSTUDIO\UAS\bin\Debug\UAS.exe.config
+G:\DEV\VSTUDIO\UAS\bin\Debug\UAS.exe
+G:\DEV\VSTUDIO\UAS\bin\Debug\UAS.pdb
+G:\DEV\VSTUDIO\UAS\bin\Debug\diba.dll
+G:\DEV\VSTUDIO\UAS\bin\Debug\diba.pdb
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.csproj.AssemblyReference.cache
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.csproj.SuggestedBindingRedirects.cache
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.FormDaftarEmployee.resources
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.FormDaftarInbox.resources
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.FormDaftarJenisTransaksi.resources
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.FormDaftarPengguna.resources
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.FormDaftarPosisi.resources
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.FormDaftarTabungan.resources
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.FormDataPengguna.resources
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.FormForgotPassword.resources
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.FormTambahEmployee.resources
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.FormTambahJenisTransaksi.resources
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.FormTambahPengguna.resources
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.FormTambahPosisi.resources
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.FormTambahTabungan.resources
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.FormTopUp.resources
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.FormTransaksi.resources
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.FormTransfer.resources
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.FormUbahEmployee.resources
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.FormUbahJenisTransaksi.resources
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.FormUbahPassword.resources
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.FormUbahPosisi.resources
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.FormUtama.resources
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.FormLogin.resources
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.Properties.Resources.resources
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.csproj.GenerateResource.cache
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.csproj.CoreCompileInputs.cache
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.csproj.CopyComplete
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.exe
+G:\DEV\VSTUDIO\UAS\obj\Debug\UAS.pdb
