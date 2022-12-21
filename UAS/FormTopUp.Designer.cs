@@ -62,6 +62,7 @@
             this.button_TopUp.TabIndex = 34;
             this.button_TopUp.Text = "Top Up";
             this.button_TopUp.UseVisualStyleBackColor = false;
+            this.button_TopUp.Click += new System.EventHandler(this.button_TopUp_Click);
             // 
             // label1
             // 

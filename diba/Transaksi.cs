@@ -38,7 +38,7 @@ namespace diba
         public Transaksi()
         {
             this.Rekening_sumber = "";
-            this.Id = 0;
+            this.Id = GenerateId();
             this.Tgl_transaksi = DateTime.Now;
             this.Id_jenis_transaksi = 0;
             this.Rekening_tujuan = "";
@@ -46,7 +46,25 @@ namespace diba
             this.Keterangan = "";
         }
 
-        public static void tambahData(Transaksi t)
+        public Transaksi(string rekening_sumber, int id_jenis_transaksi, string rekening_tujuan, int nominal, string keterangan)
+        {
+            this.Rekening_sumber = rekening_sumber;
+            this.Id = GenerateId();
+            this.Tgl_transaksi = tgl_transaksi;
+            this.Id_jenis_transaksi = id_jenis_transaksi;
+            this.Rekening_tujuan = rekening_tujuan;
+            this.Nominal = nominal;
+            this.Keterangan = keterangan;
+        }
+
+        public static int GenerateId()
+        {
+            int identifier = int.Parse(DateTime.Now.ToString("yyMMdd") + (new Random()).Next(0, 99).ToString("D2"));
+
+            return identifier;
+        }
+
+        public static void TambahData(Transaksi t)
         {
             string sql = "INSERT INTO transaksi (rekening_sumber, transaksi_id, tgl_transaksi, id_jenis_transaksi," +
                 " rekening_tujuan, nominal, keterangan) VALUES('" + t.Rekening_sumber + ", " + t.Id + ", " + t.Tgl_transaksi.ToString("yyyy-MM-dd") + ", " + t.Id_jenis_transaksi + ", "

@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using diba;
 
 namespace UAS
 {
@@ -23,6 +24,22 @@ namespace UAS
         (e.KeyChar != '.'))
             {
                 e.Handled = true;
+            }
+        }
+
+        private void button_TopUp_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                Transaksi t = new Transaksi(rekening_sumber: "TOP_UP", id_jenis_transaksi: 0, rekening_tujuan: "", nominal: 1000, keterangan: "");
+
+                Transaksi.TambahData(t);
+
+                MessageBox.Show("Data Tersimpan", "Berhasil");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("gagal, pesan = " + ex.Message, "ERROR");
             }
         }
     }
