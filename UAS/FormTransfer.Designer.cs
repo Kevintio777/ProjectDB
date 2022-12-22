@@ -36,6 +36,8 @@ namespace UAS
             this.button_Transfer = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
             this.textBox_RekeningTujuan = new System.Windows.Forms.TextBox();
+            this.textBox_keterangan = new System.Windows.Forms.TextBox();
+            this.Keterangan = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label2
@@ -43,7 +45,7 @@ namespace UAS
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Century Gothic", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.label2.Location = new System.Drawing.Point(7, 177);
+            this.label2.Location = new System.Drawing.Point(7, 153);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(114, 30);
             this.label2.TabIndex = 42;
@@ -52,7 +54,7 @@ namespace UAS
             // textBox_Nominal
             // 
             this.textBox_Nominal.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox_Nominal.Location = new System.Drawing.Point(12, 210);
+            this.textBox_Nominal.Location = new System.Drawing.Point(11, 186);
             this.textBox_Nominal.Name = "textBox_Nominal";
             this.textBox_Nominal.Size = new System.Drawing.Size(311, 38);
             this.textBox_Nominal.TabIndex = 41;
@@ -79,7 +81,7 @@ namespace UAS
             this.label1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.label1.Location = new System.Drawing.Point(5, 11);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(171, 40);
+            this.label1.Size = new System.Drawing.Size(167, 40);
             this.label1.TabIndex = 38;
             this.label1.Text = "TRANSFER";
             // 
@@ -96,6 +98,7 @@ namespace UAS
             this.button_Transfer.TabIndex = 43;
             this.button_Transfer.Text = "Transfer";
             this.button_Transfer.UseVisualStyleBackColor = false;
+            this.button_Transfer.Click += new System.EventHandler(this.button_Transfer_Click);
             // 
             // label3
             // 
@@ -119,12 +122,35 @@ namespace UAS
             this.textBox_RekeningTujuan.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             this.textBox_RekeningTujuan.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox_RekeningTujuan_KeyPress);
             // 
+            // textBox_keterangan
+            // 
+            this.textBox_keterangan.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox_keterangan.Location = new System.Drawing.Point(11, 271);
+            this.textBox_keterangan.Name = "textBox_keterangan";
+            this.textBox_keterangan.Size = new System.Drawing.Size(311, 38);
+            this.textBox_keterangan.TabIndex = 47;
+            this.textBox_keterangan.TextChanged += new System.EventHandler(this.textBox_keterangan_TextChanged);
+            // 
+            // Keterangan
+            // 
+            this.Keterangan.AutoSize = true;
+            this.Keterangan.Font = new System.Drawing.Font("Century Gothic", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Keterangan.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.Keterangan.Location = new System.Drawing.Point(12, 238);
+            this.Keterangan.Name = "Keterangan";
+            this.Keterangan.Size = new System.Drawing.Size(152, 30);
+            this.Keterangan.TabIndex = 46;
+            this.Keterangan.Text = "Keterangan";
+            this.Keterangan.Click += new System.EventHandler(this.Keterangan_Click);
+            // 
             // FormTransfer
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(136)))), ((int)(((byte)(168)))), ((int)(((byte)(243)))));
             this.ClientSize = new System.Drawing.Size(336, 506);
+            this.Controls.Add(this.textBox_keterangan);
+            this.Controls.Add(this.Keterangan);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.textBox_RekeningTujuan);
             this.Controls.Add(this.button_Transfer);
@@ -148,5 +174,7 @@ namespace UAS
         private System.Windows.Forms.Button button_Transfer;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox textBox_RekeningTujuan;
+        private System.Windows.Forms.TextBox textBox_keterangan;
+        private System.Windows.Forms.Label Keterangan;
     }
 }
